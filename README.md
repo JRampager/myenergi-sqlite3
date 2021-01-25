@@ -12,6 +12,7 @@ Inspired by the [investigations done by twonk](https://github.com/twonk/MyEnergi
 
 ## Getting Started
 - Set user credentials in GetMyEnergyValues.ps1
+- Run the script
 
 ## Standard Disclaimer
 All Content on this site is provided "as is" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability or fitness for a particular purpose, or the warranty of non-infringement. Without limiting the foregoing, the developer makes no warranty that (i) the services and Content will meet your requirements, (ii) the services and Content will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the service or Content will be effective, accurate or reliable, (iv) the quality of any products, services, or information purchased or obtained by you from the site will meet your expectations, and (v) any errors in the software obtained from the site will be corrected.
